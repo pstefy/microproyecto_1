@@ -222,3 +222,62 @@ body{
     font-size: 1.2vw;
     margin-left: 3vw;
 }
+
+
+
+#sec_contact{
+    background-image: url(/images/Fondo\ about\ me.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 98.7vw;
+    height: 100vh;
+}
+
+#sec_contact div{
+    float: left;
+    margin: 1.5vw;
+    margin-top: 8vw;
+    margin-left: 6vw;
+    background-color: rgba(0, 0, 0, 0);
+    width: 30vw;
+    height: 70vh;
+}
+
+#sec_contact img{
+    margin: 2vw 0vw 0vw 0vw;
+    width: 10vw;
+    height: 18vh;
+    margin-left: 3vw;
+}
+
+#sec_contact div.formulario{
+    width: 50vw;
+}
+
+#sec_contact div.redes{
+    background-color: rgba(0, 0, 0, 0);
+}
+
+#sec_contact form{
+    margin-left: 17vw;
+    margin-top: 4vw;
+}
+
+#sec_contact label{
+    font-size: 1.5vw;
+    color: white;
+}
+
+#sec_contact input{
+    width: 25vw;
+    height: 2vw;
+    margin-top: 0.5vw;
+    margin-bottom: 0.5vw;
+}
+
+#sec_contact textarea{
+    width: 25vw;
+    margin-top: 0.5vw;
+    margin-bottom: 0.5vw;
+}
