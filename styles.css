@@ -175,3 +175,50 @@ body{
     width: 15vw;
     height: 28vh;
 }
+
+#about_me{
+    background-image: url(/images/Fondo\ about\ me.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 98.7vw;
+    height: 100vh;
+}
+
+#about_me div{
+    float: left;
+    margin: 1.5vw;
+    margin-top: 8vw;
+    margin-left: 8vw;
+    background-color: rgba(0, 0, 0, 0.281);
+    width: 21vw;
+    height: 70vh;
+}
+
+#about_me img{
+    margin: 0vw 0vw 0vw 0vw;
+    width: 22vw;
+    height: 70vh;
+}
+
+#about_me h2{
+    color: white;
+    text-align: center;
+    margin: 1.5vw;
+    margin-top: 3vw;
+}
+
+#about_me p{
+    color: white;
+    text-align: center;
+    margin: 1.5vw;
+    font-size: 1.2vw;
+}
+
+#about_me li{
+    color: white;
+    text-align: left;
+    margin: 1.5vw;
+    font-size: 1.2vw;
+    margin-left: 3vw;
+}
