@@ -158,3 +158,20 @@ body{
     text-align: center;
     margin: 1.5vw;
 }
+
+#sec_experience p{
+    color: white;
+    text-align: center;
+    margin: 1.5vw;
+    font-size: 1.3vw;
+}
+
+#sec_experience a{
+    color: white;
+}
+
+#sec_experience img{
+    margin: 2vw 0vw 0vw 3vw;
+    width: 15vw;
+    height: 28vh;
+}
