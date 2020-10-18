@@ -83,6 +83,7 @@ body{
 
 #sec_hero img {
     width: 100%;
+    opacity: 0.5;
 }
 
 
@@ -109,7 +110,6 @@ body{
     transform: translate(-50%, -50%);
     color: white;
     font-size: 4vw;
-    background-color: rgba(0, 0, 0, 0.705);
 }
 
 #sec_hero p{
@@ -120,5 +120,4 @@ body{
     transform: translate(-50%, -50%);
     color: white;
     font-size: 3vw;
-    background-color: rgba(0, 0, 0, 0.705);
 }
