@@ -11,7 +11,7 @@ body{
     background-size: cover;
     width: 98.7vw;
     /*height: 95vh;*/
-    height: 150vh;
+    height: 400vh;
 }
 
 #sec_barra{
@@ -120,4 +120,41 @@ body{
     transform: translate(-50%, -50%);
     color: white;
     font-size: 3vw;
+}
+
+#sec_experience{
+    background-image: url(/images/fondo_experience.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 98.7vw;
+    height: 100vh;
+}
+
+#sec_experience div{
+    float: left;
+    margin: 1.5vw;
+    margin-top: 8vw;
+    margin-left: 8vw;
+    background-color: rgba(0, 0, 0, 0.281);
+    width: 21vw;
+    height: 70vh;
+}
+
+#sec_experience h2{
+    color: white;
+    text-align: center;
+    margin: 1.5vw;
+}
+
+#sec_experience h3{
+    color: white;
+    text-align: center;
+    margin: 1.5vw;
+}
+
+#sec_experience h4{
+    color: white;
+    text-align: center;
+    margin: 1.5vw;
 }
